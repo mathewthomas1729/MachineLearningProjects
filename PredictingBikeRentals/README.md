@@ -1,0 +1,1 @@
+The dataset for this project is obtained from university of California, Irvine website. It has data about number of bikes rented each hour and number of other possible relevant features. The goal of this project is to predict number of bikes people will rent in any given hour.
